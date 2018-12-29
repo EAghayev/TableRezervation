@@ -1,0 +1,15 @@
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\bin\Debug\Rezervation.exe.config
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\bin\Debug\Rezervation.exe
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\bin\Debug\Rezervation.pdb
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\bin\Debug\EntityFramework.dll
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\bin\Debug\EntityFramework.xml
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\obj\Debug\Rezervation.csprojAssemblyReference.cache
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\obj\Debug\Rezervation.Properties.Resources.resources
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\obj\Debug\Rezervation.csproj.GenerateResource.cache
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\obj\Debug\Rezervation.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\obj\Debug\Rezervation.csproj.CopyComplete
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\obj\Debug\Rezervation.exe
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\obj\Debug\Rezervation.pdb
+C:\Users\Eagha\source\repos\Rezervation\Rezervation\obj\Debug\Rezervation.Form1.resources

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CabinetRezervationModelStoreContainer" CdmEntityContainer="CabinetRezervationEntities">
+    <EntitySetMapping Name="Cabinets">
+      <EntityTypeMapping TypeName="CabinetRezervationModel.Cabinet">
+        <MappingFragment StoreEntitySet="Cabinets">
+          <ScalarProperty Name="IsReserved" ColumnName="IsReserved" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CabinetRezervations">
+      <EntityTypeMapping TypeName="CabinetRezervationModel.CabinetRezervation">
+        <MappingFragment StoreEntitySet="CabinetRezervations">
+          <ScalarProperty Name="TotalPrice" ColumnName="TotalPrice" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="CabinetId" ColumnName="CabinetId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
